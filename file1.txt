@@ -1,3 +1,6 @@
 Initial content in file1
+<<<<<<< HEAD
 Update to file1
 Final update to file1
+=======
+>>>>>>> parent of c648f55 (Update file1)
